@@ -1,4 +1,4 @@
-This is tic-tac-toe played out in the JavaScript console.
+This is tic-tac-toe in the JavaScript console.
 
 There is one setting for the CPU: easy! There is no logic to it's moves, it just makes random legal moves.
 
